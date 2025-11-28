@@ -1,9 +1,4 @@
-Here’s the same README, edited to match **our actual project files + flow** (single notebook / script: `Group Project.ipynb` / `Group Project.py`, Linux `ps` usage, test processes, etc.).
-You can paste this directly into **README.md** on GitHub.
 
----
-
-````markdown
 # 🖥️ CPU Process Scheduling Simulator
 
 <p align="center">
@@ -304,5 +299,3 @@ This project is created for **academic use** as part of an Operating Systems cou
 
 ```
 
-::contentReference[oaicite:0]{index=0}
-```
